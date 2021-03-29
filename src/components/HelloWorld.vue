@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-    <p>This is just a sample!</p>
   </div>
 </template>
 
